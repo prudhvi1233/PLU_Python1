@@ -9,3 +9,4 @@ class Student:
 
 s1 = Student("Rahul", 20)
 s1.display()
+
